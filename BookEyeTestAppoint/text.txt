@@ -1,0 +1,28 @@
+{
+    
+	"ace": {
+        
+		"@showGutter": true,
+        
+			"statusbar": {
+            
+				"@show": true
+        
+				}
+    
+		},
+    
+"projecttree": {
+        
+	"@showhidden": true
+    
+		},
+    
+"tabs": {
+       
+ 	 "@show": true
+    
+	}
+
+             }
+}
