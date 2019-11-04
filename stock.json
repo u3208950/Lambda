@@ -1,0 +1,97 @@
+{
+    "stock": [
+        { "itemNumber": 1000, "type": "contactLens", "cost": "$50", "brand": "XXX", "colour": "brown", "stock": 3 },
+        { "itemNumber": 1001, "type": "contactLens", "cost": "$50", "brand": "XXX", "colour": "green", "stock": 5 },
+        { "itemNumber": 1002, "type": "contactLens", "cost": "$50", "brand": "XXX", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1003, "type": "contactLens", "cost": "$100", "brand": "XXX", "colour": "brown", "stock": 2 },
+        { "itemNumber": 1004, "type": "contactLens", "cost": "$100", "brand": "XXX", "colour": "green", "stock": 8 },
+        { "itemNumber": 1005, "type": "contactLens", "cost": "$100", "brand": "XXX", "colour": "grey", "stock": 4 },
+        { "itemNumber": 1006, "type": "contactLens", "cost": "$150", "brand": "XXX", "colour": "brown", "stock": 4 },
+        { "itemNumber": 1007, "type": "contactLens", "cost": "$150", "brand": "XXX", "colour": "green", "stock": 4 },
+        { "itemNumber": 1008, "type": "contactLens", "cost": "$150", "brand": "XXX", "colour": "grey", "stock": 1 },
+
+        { "itemNumber": 1009, "type": "frame", "cost": "$50", "brand": "XXX", "stock": 6 },
+        { "itemNumber": 1010, "type": "frame", "cost": "$100", "brand": "XXX", "stock": 0 },
+        { "itemNumber": 1011, "type": "frame", "cost": "$150", "brand": "XXX", "stock": 3 },
+
+        { "itemNumber": 1012, "type": "glassLens", "cost": "$50", "brand": "XXX", "stock": 4 },
+        { "itemNumber": 1013, "type": "glassLens", "cost": "$100", "brand": "XXX", "stock": 6 },
+        { "itemNumber": 1014, "type": "glassLens", "cost": "$150", "brand": "XXX", "stock": 8 },
+
+
+        { "itemNumber": 1015, "type": "contactLens", "cost": "$50", "brand": "YYY", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1016, "type": "contactLens", "cost": "$50", "brand": "YYY", "colour": "green", "stock": 1 },
+        { "itemNumber": 1017, "type": "contactLens", "cost": "$50", "brand": "YYY", "colour": "grey", "stock": 2 },
+        { "itemNumber": 1018, "type": "contactLens", "cost": "$100", "brand": "YYY", "colour": "brown", "stock": 2 },
+        { "itemNumber": 1019, "type": "contactLens", "cost": "$100", "brand": "YYY", "colour": "green", "stock": 1 },
+        { "itemNumber": 1020, "type": "contactLens", "cost": "$100", "brand": "YYY", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1021, "type": "contactLens", "cost": "$150", "brand": "YYY", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1022, "type": "contactLens", "cost": "$150", "brand": "YYY", "colour": "green", "stock": 3 },
+        { "itemNumber": 1023, "type": "contactLens", "cost": "$150", "brand": "YYY", "colour": "grey", "stock": 1 },
+
+        { "itemNumber": 1024, "type": "frame", "cost": "$50", "brand": "YYY", "stock": 14 },
+        { "itemNumber": 1025, "type": "frame", "cost": "$100", "brand": "YYY", "stock": 20 },
+        { "itemNumber": 1026, "type": "frame", "cost": "$150", "brand": "YYY", "stock": 13 },
+
+        { "itemNumber": 1027, "type": "glassLens", "cost": "$50", "brand": "YYY", "stock": 0 },
+        { "itemNumber": 1028, "type": "glassLens", "cost": "$100", "brand": "YYY", "stock": 2 },
+        { "itemNumber": 1029, "type": "glassLens", "cost": "$150", "brand": "YYY", "stock": 2 },
+
+
+        { "itemNumber": 1030, "type": "contactLens", "cost": "$50", "brand": "ZZZ", "colour": "brown", "stock": 4 },
+        { "itemNumber": 1031, "type": "contactLens", "cost": "$50", "brand": "ZZZ", "colour": "green", "stock": 4 },
+        { "itemNumber": 1032, "type": "contactLens", "cost": "$50", "brand": "ZZZ", "colour": "grey", "stock": 3 },
+        { "itemNumber": 1033, "type": "contactLens", "cost": "$100", "brand": "ZZZ", "colour": "brown", "stock": 3 },
+        { "itemNumber": 1034, "type": "contactLens", "cost": "$100", "brand": "ZZZ", "colour": "green", "stock": 7 },
+        { "itemNumber": 1035, "type": "contactLens", "cost": "$100", "brand": "ZZZ", "colour": "grey", "stock": 5 },
+        { "itemNumber": 1036, "type": "contactLens", "cost": "$150", "brand": "ZZZ", "colour": "brown", "stock": 3 },
+        { "itemNumber": 1037, "type": "contactLens", "cost": "$150", "brand": "ZZZ", "colour": "green", "stock": 1 },
+        { "itemNumber": 1038, "type": "contactLens", "cost": "$150", "brand": "ZZZ", "colour": "grey", "stock": 2 },
+
+        { "itemNumber": 1039, "type": "frame", "cost": "$50", "brand": "ZZZ", "stock": 7 },
+        { "itemNumber": 1040, "type": "frame", "cost": "$100", "brand": "ZZZ", "stock": 8 },
+        { "itemNumber": 1041, "type": "frame", "cost": "$150", "brand": "ZZZ", "stock": 4 },
+
+        { "itemNumber": 1042, "type": "glassLens", "cost": "$50", "brand": "ZZZ", "stock": 1 },
+        { "itemNumber": 1043, "type": "glassLens", "cost": "$100", "brand": "ZZZ", "stock": 5 },
+        { "itemNumber": 1044, "type": "glassLens", "cost": "$150", "brand": "ZZZ", "stock": 8 },
+
+
+        { "itemNumber": 1045, "type": "contactLens", "cost": "$50", "brand": "XYZ", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1046, "type": "contactLens", "cost": "$50", "brand": "XYZ", "colour": "green", "stock": 1 },
+        { "itemNumber": 1047, "type": "contactLens", "cost": "$50", "brand": "XYZ", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1048, "type": "contactLens", "cost": "$100", "brand": "XYZ", "colour": "brown", "stock": 1 },
+        { "itemNumber": 1049, "type": "contactLens", "cost": "$100", "brand": "XYZ", "colour": "green", "stock": 2 },
+        { "itemNumber": 1050, "type": "contactLens", "cost": "$100", "brand": "XYZ", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1051, "type": "contactLens", "cost": "$150", "brand": "XYZ", "colour": "brown", "stock": 1 },
+        { "itemNumber": 1052, "type": "contactLens", "cost": "$150", "brand": "XYZ", "colour": "green", "stock": 0 },
+        { "itemNumber": 1053, "type": "contactLens", "cost": "$150", "brand": "XYZ", "colour": "grey", "stock": 2 },
+
+        { "itemNumber": 1054, "type": "frame", "cost": "$50", "brand": "XYZ", "stock": 5 },
+        { "itemNumber": 1055, "type": "frame", "cost": "$100", "brand": "XYZ", "stock": 8 },
+        { "itemNumber": 1056, "type": "frame", "cost": "$150", "brand": "XYZ", "stock": 4 },
+
+        { "itemNumber": 1057, "type": "glassLens", "cost": "$50", "brand": "XYZ", "stock": 2 },
+        { "itemNumber": 1058, "type": "glassLens", "cost": "$100", "brand": "XYZ", "stock": 4 },
+        { "itemNumber": 1059, "type": "glassLens", "cost": "$150", "brand": "XYZ", "stock": 5 },
+
+
+        { "itemNumber": 1060, "type": "contactLens", "cost": "$50", "brand": "XYY", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1061, "type": "contactLens", "cost": "$50", "brand": "XYY", "colour": "green", "stock": 0 },
+        { "itemNumber": 1062, "type": "contactLens", "cost": "$50", "brand": "XYY", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1063, "type": "contactLens", "cost": "$100", "brand": "XYY", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1064, "type": "contactLens", "cost": "$100", "brand": "XYY", "colour": "green", "stock": 0 },
+        { "itemNumber": 1065, "type": "contactLens", "cost": "$100", "brand": "XYY", "colour": "grey", "stock": 0 },
+        { "itemNumber": 1066, "type": "contactLens", "cost": "$150", "brand": "XYY", "colour": "brown", "stock": 0 },
+        { "itemNumber": 1067, "type": "contactLens", "cost": "$150", "brand": "XYY", "colour": "green", "stock": 0 },
+        { "itemNumber": 1068, "type": "contactLens", "cost": "$150", "brand": "XYY", "colour": "grey", "stock": 0 },
+
+        { "itemNumber": 1069, "type": "frame", "cost": "$50", "brand": "XYY", "stock": 4 },
+        { "itemNumber": 1070, "type": "frame", "cost": "$100", "brand": "XYY", "stock": 6 },
+        { "itemNumber": 1071, "type": "frame", "cost": "$150", "brand": "XYY", "stock": 5 },
+
+        { "itemNumber": 1072, "type": "glassLens", "cost": "$50", "brand": "XYY", "stock": 1 },
+        { "itemNumber": 1073, "type": "glassLens", "cost": "$100", "brand": "XYY", "stock": 3 },
+        { "itemNumber": 1074, "type": "glassLens", "cost": "$150", "brand": "XYY", "stock": 4 }
+    ]
+}
